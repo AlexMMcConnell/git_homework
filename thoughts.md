@@ -5,3 +5,5 @@ Takeaways from first few classes:
 Two new strategies I am committed to trying during the rest of Mod 0
   1. Be sure to use excellent git commit messages; Make sure the nightmares of git commit messages stay in the past!
   2. Use hotkeys wherever I possibly can; hotkeys are so so SO important!
+
+I must give a huge shoutout to two wonderful individuals; Devin Pile for supporting everyone in the mod 0 group, and Nick Nist (absolutely wonderful alumni) for being a constant support during my time at Turing thus far.
